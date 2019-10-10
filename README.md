@@ -1,6 +1,8 @@
 eecs731-major_leagues
 ==============================
 
+Dalton Hahn (2762306)
+
 Perform Regression Analysis on the sports dataset in order to estimate the scores for each team
 
 Project Organization
