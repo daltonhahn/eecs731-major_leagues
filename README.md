@@ -14,10 +14,6 @@ Project Organization
     │   ├── external       <- Data from third party sources.
     │   ├── processed      <- The final, canonical data sets for modeling.
     │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
     │                         the creator's initials, and a short `-` delimited description, e.g.
 
